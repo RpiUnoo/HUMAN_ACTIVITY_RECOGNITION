@@ -1,1 +1,3 @@
 # HUMAN_ACTIVITY_RECOGNITION
+
+This project focuses on the recognition of human activities using a model trained on the Kinetics 400 Dataset. To gain a deeper understanding of this dataset and the employed model, I recommend referring to two key papers: "The Kinetics Human Action Video Dataset" by Kay et al. (2017) and "Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?" by Hara et al. (2018). In their 2018 CVPR paper, authors Kensho Hara, Hirokatsu Kataoka, and Yutaka Satoh discuss the extension of existing state-of-the-art 2D architectures (such as ResNet, ResNeXt, DenseNet, etc.) to video classification through the use of 3D kernels.
